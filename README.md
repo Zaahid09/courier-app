@@ -45,7 +45,7 @@ Tech Stack
 
 ---
 
-Environment Variables (IMPORTANT)
+### Run This on the .env file
 
 Create a `.env` file inside the **backend** folder.
 
