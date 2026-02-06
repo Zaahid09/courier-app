@@ -1,5 +1,7 @@
 PERN Courier Service App
 
+<img width="1315" height="867" alt="Image" src="https://github.com/user-attachments/assets/2d1b677e-e409-4f73-bf21-e4ed80f353f1" />
+
 A full-stack courier management application built using the **PERN Stack**:
 
 * PostgreSQL
